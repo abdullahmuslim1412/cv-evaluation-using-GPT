@@ -1,5 +1,5 @@
 
-### CV Evaluation Tool 
+## CV Evaluation Tool 
 
 This tool evaluates and matches candidate CVs against a job description using the power of OpenAI's GPT-4o, with a structured, explainable, and Excel-exportable scoring framework.
 
@@ -13,8 +13,7 @@ This tool automates the screening of CVs by:
 - Returning both **scores (0–10)** and **human-readable explanations**
 - Exporting results to an Excel file for easy review and analysis
 
-
-### Requirements
+## Requirements
 
 Install the following dependencies:
 
@@ -48,8 +47,6 @@ General Assessment
 Outputs a score and explanation for each
 
 Results saved to CV_Evaluation_Scorecard.xlsx
-
-
 
 ## Use Cases
 - Shortlisting candidates
