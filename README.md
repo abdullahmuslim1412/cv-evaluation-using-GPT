@@ -61,5 +61,6 @@ Inspired by AI use cases in HR — not affiliated with any third-party tool.
 
 ## Credits
 Developed by Abdullah Muslim
+
 For queries or collaboration:
 abdullahmuslim1412@gmail.com
